@@ -1,0 +1,16 @@
+<use name="DataFormats/TrackReco"/>
+<use name="DataFormats/CaloRecHit"/>
+<use name="DataFormats/EgammaReco"/>
+<use name="RecoEgamma/EgammaTools"/>
+<use name="FWCore/Framework"/>
+<use name="FWCore/ParameterSet"/>
+<use name="FWCore/PluginManager"/>
+<use name="FWCore/Utilities"/>
+<use name="DataFormats/HGCRecHit"/>
+<use name="Geometry/Records"/>
+<use name="Geometry/CaloGeometry"/>
+
+
+<flags CXXFLAGS="-g -Wno-sign-compare -Wno-unused-variable -Wno-unused-but-set-variable  -Os"/>
+
+<flags EDM_PLUGIN="1"/>
